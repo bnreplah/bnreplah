@@ -11,7 +11,6 @@
 
 # New Github Stats #
 [![DataViz3D](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&format=svg&theme=dark&mode=3d&rx=0.400&ry=0.300)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&theme=dark)
-![grade]()
 <!---
 bnreplah/bnreplah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
