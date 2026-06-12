@@ -5,7 +5,7 @@
 
 Looking for something specific, or just some [resources](https://bnreplah.github.io/cybersecuritylibrary/) to help you along your journey?           
 Interested in the thoughts that jumble around in my head? check out my [blog](https://bnreplah.github.io/blog)            
-Want to check out my thought work on the side: [whitepapers](https://bnreplah.github.io/whitepapers)            
+Want to check out my thought work on the side: [(see my whitepapers on the blog)](https://bnreplah.github.io/blog)            
 
 - 👋 Hi, I’m @bnreplah
 - 👀 I’m interested in ... literally everything, you may find alot of different things in these repos, from fun things, to scary things, to educational things. I like to fork repos to learn and integrate, I try to label and put things in topics to make it easy to find things.
