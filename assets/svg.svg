@@ -1,0 +1,118 @@
+<svg viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Cascadia Code',ui-monospace,Menlo,Consolas,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E141B"/>
+    </linearGradient>
+    <style>
+      .joke { opacity: 0; animation: cycle 128s infinite; }
+      .j0 { animation-delay: 0s; }
+      .j1 { animation-delay: 4s; }
+      .j2 { animation-delay: 8s; }
+      .j3 { animation-delay: 12s; }
+      .j4 { animation-delay: 16s; }
+      .j5 { animation-delay: 20s; }
+      .j6 { animation-delay: 24s; }
+      .j7 { animation-delay: 28s; }
+      .j8 { animation-delay: 32s; }
+      .j9 { animation-delay: 36s; }
+      .j10 { animation-delay: 40s; }
+      .j11 { animation-delay: 44s; }
+      .j12 { animation-delay: 48s; }
+      .j13 { animation-delay: 52s; }
+      .j14 { animation-delay: 56s; }
+      .j15 { animation-delay: 60s; }
+      .j16 { animation-delay: 64s; }
+      .j17 { animation-delay: 68s; }
+      .j18 { animation-delay: 72s; }
+      .j19 { animation-delay: 76s; }
+      .j20 { animation-delay: 80s; }
+      .j21 { animation-delay: 84s; }
+      .j22 { animation-delay: 88s; }
+      .j23 { animation-delay: 92s; }
+      .j24 { animation-delay: 96s; }
+      .j25 { animation-delay: 100s; }
+      .j26 { animation-delay: 104s; }
+      .j27 { animation-delay: 108s; }
+      .j28 { animation-delay: 112s; }
+      .j29 { animation-delay: 116s; }
+      .j30 { animation-delay: 120s; }
+      .j31 { animation-delay: 124s; }
+      @keyframes cycle {
+        0%        { opacity: 1; }
+        2.8125%  { opacity: 1; }
+        3.125%  { opacity: 0; }
+        100%      { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="760" height="360" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="759" height="359" rx="14" fill="none" stroke="#1C2630"/>
+
+  <text x="40" y="44" font-size="15" letter-spacing="0.5">
+    <tspan fill="#3FB950">bnreplah</tspan><tspan fill="#768390">@github</tspan><tspan fill="#4FB7FF">:~#</tspan>
+  </text>
+  <rect x="286" y="30" width="9" height="16" fill="#4FB7FF">
+    <animate attributeName="opacity"
+             values="1;1;0;0"
+             keyTimes="0;0.5;0.5;1"
+             dur="1.1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <g font-size="13" letter-spacing="0.3" fill="#6E7B8A">
+    <text class="joke j0" x="40" y="66"># in case of fire: git commit, git push, leave the building</text>
+    <text class="joke j1" x="40" y="66"># git-blame: ruining friendships since 2006</text>
+    <text class="joke j2" x="40" y="66"># may the --force be with you</text>
+    <text class="joke j3" x="40" y="66"># git happens</text>
+    <text class="joke j5" x="40" y="66"># all those commits, lost like tears in rain. time to gc</text>
+    <text class="joke j6" x="40" y="66"># fork it until you make it</text>
+    <text class="joke j7" x="40" y="66"># git: history is written by the committers.</text>
+    <text class="joke j8" x="40" y="66"># git: multiplayer notepad</text>
+    <text class="joke j9" x="40" y="66"># git is one byte short of a four-letter word</text>
+    <text class="joke j10" x="40" y="66"># in soviet russia, git commits YOU</text>
+    <text class="joke j11" x="40" y="66"># git: committed for life</text>
+    <text class="joke j12" x="40" y="66"># what we push in life echoes in eternity</text>
+    <text class="joke j13" x="40" y="66"># git-stash: the sock drawer of version control</text>
+    <text class="joke j14" x="40" y="66"># git-filter-branch: hide your dirty laundry</text>
+    <text class="joke j15" x="40" y="66"># I git by with a little help from my friends</text>
+    <text class="joke j16" x="40" y="66"># git knows what you did last summer</text>
+    <text class="joke j17" x="40" y="66"># Yo dawg we heard you like commits so we put some commits in your tree so you can add submodules while you commit</text>
+    <text class="joke j18" x="40" y="66"># git pull a day keeps the conflicts away</text>
+    <text class="joke j19" x="40" y="66"># updates were rejected: use the --force</text>
+    <text class="joke j20" x="40" y="66"># all your rebase are belong to us</text>
+    <text class="joke j21" x="40" y="66"># git-stash: The sock drawer of version control</text>
+    <text class="joke j23" x="40" y="66"># be careful not to remove the branch you're standing on</text>
+    <text class="joke j24" x="40" y="66"># git: history is written by the committers</text>
+    <text class="joke j25" x="40" y="66"># how the git cult end their prayers? --amen(d)</text>
+    <text class="joke j26" x="40" y="66"># beware the HEADless horseman of gitty hollow</text>
+    <text class="joke j27" x="40" y="66"># Updates were rejected: use the --force</text>
+    <text class="joke j28" x="40" y="66"># git gud</text>
+    <text class="joke j29" x="40" y="66"># commit early, commit often</text>
+    <text class="joke j30" x="40" y="66"># Git offa my lawn!</text>
+    <text class="joke j31" x="40" y="66"># this is not a joke, it's a commit</text>
+    <text class="joke j32" x="40" y="66"># git: off me ... said one hacker to another</text>
+    <text class="joke j33" x="40" y="66"># Err 404: I think it's that time of day</text>
+    <text class="joke j34" x="40" y="66"># thank you ancient-cthulhu for making me aware of this</text>
+    <text class="joke j35" x="40" y="66"># are you ready for the next step?</text>
+  </g>
+
+  <text x="40" y="116" font-size="42" font-weight="700" letter-spacing="-0.5"
+        font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" fill="#E6EDF3">Daniel M.</text>
+
+  <text x="42" y="146" font-size="15" fill="#9DA7B3" letter-spacing="0.3">Security Researcher | Hacker &#183; Veracode CSE</text>
+  <text x="42" y="172" font-size="13" fill="#768390" letter-spacing="0.4">Hacking &#183; Scripting &#183; Full Stack Development &#183; Try Harder</text>
+
+  <line x1="40" y1="200" x2="720" y2="200" stroke="#1C2630"/>
+  <g font-size="14" letter-spacing="0.2">
+    <text x="40" y="244" fill="#4FB7FF">languages</text>
+    <text x="186" y="244" fill="#ADBAC7">Python &#183; Javascript &#183; Java  &#183; C++  &#183; Bash  &#183; PHP &#183; SQL &#183; ... </text>
+    <text x="40" y="276" fill="#4FB7FF">ci / cd</text>
+    <text x="186" y="276" fill="#ADBAC7">GitHub &#183; GitLab &#183; Jenkins &#183; Azure DevOps &#183; Bitbucket &#183; RedHat OpenShift &#183; SVN &#183;</text>
+    <text x="40" y="308" fill="#4FB7FF"></text>
+    <text x="186" y="308" fill="#ADBAC7">React &#183; Angular &#183;  </text>
+    <text x="40" y="340" fill="#4FB7FF">tooling</text>
+    <text x="186" y="340" fill="#ADBAC7"> Bash &#183; PowerShell &#183; SQL &#183; Docker &#183; Git</text>
+  </g>
+</svg>
