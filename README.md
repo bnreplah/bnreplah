@@ -2,11 +2,11 @@
 <div align="center">
 
 
+<img src="assets/svg.svg" width="760" alt="Ben Halpern"/>
+
 [![Bnreplah](https://github-readme-stats-gamma-tawny-86.vercel.app/api?username=bnreplah)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&viz=voxels&theme=dark)
 
 [![DataViz3D](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&format=svg&theme=dark&mode=3d&rx=0.400&ry=0.300)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&theme=dark)
-
-<img src="assets/svg.svg" width="760" alt="Ben Halpern"/>
 
 </div>
 Looking for something specific, or just some [resources](https://bnreplah.github.io/cybersecuritylibrary/) to help you along your journey?           
