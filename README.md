@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="assets/svg.svg" width="760" alt="Ben Halpern"/>
+
 
 [![Bnreplah](https://github-readme-stats-gamma-tawny-86.vercel.app/api?username=bnreplah)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&viz=voxels&theme=dark)
 
