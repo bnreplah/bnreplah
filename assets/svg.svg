@@ -110,6 +110,7 @@
     <text x="186" y="308" fill="#ADBAC7">React &#183; Angular &#183;  </text>
     <text x="40" y="340" fill="#4FB7FF">tooling</text>
     <text x="186" y="340" fill="#ADBAC7"> Bash &#183; PowerShell &#183; SQL &#183; Docker &#183; Git</text>
+    <text x="40" y="380" fill="#4FB7FF">Thank you @ancient-cthulhu for putting me on this</text>
   </g>
-   <text x="42" y="172" font-size="13" fill="#768390" letter-spacing="0.4">Thank you @ancient-cthulhu for putting me on this</text>
+  
 </svg>
