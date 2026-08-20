@@ -1,8 +1,14 @@
 # Welcome to my GitHub #
+<div align="center">
+
+
 [![Bnreplah](https://github-readme-stats-gamma-tawny-86.vercel.app/api?username=bnreplah)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&viz=voxels&theme=dark)
 
 [![DataViz3D](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&format=svg&theme=dark&mode=3d&rx=0.400&ry=0.300)](https://github-readme-stats-gamma-tawny-86.vercel.app/api/dataviz?username=bnreplah&theme=dark)
 
+<img src="assets/svg.svg" width="760" alt="Ben Halpern"/>
+
+</div>
 Looking for something specific, or just some [resources](https://bnreplah.github.io/cybersecuritylibrary/) to help you along your journey?           
 Interested in the thoughts that jumble around in my head? check out my [blog](https://bnreplah.github.io/blog)            
 Want to check out my thought work on the side: [(see my whitepapers on the blog)](https://bnreplah.github.io/blog)            
